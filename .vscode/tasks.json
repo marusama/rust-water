@@ -36,7 +36,6 @@
 			"problemMatcher": [
 				"$rustc"
 			],
-			"group": "clean",
 			"label": "Rust: cargo clean - water"
 		},
 		{
